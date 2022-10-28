@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lastbronx41
-- 👀 I’m interested in becoming a front end engineer
-- 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on any entry level projects
+- 👀 I’m interested in managing projects as a senior web developer
+- 🌱 I’m love teaching code and helping others learn how to solve problems as a coder
+- 💞️ I’m a team player and love collaborating on projects
 - 📫 How to reach me through lastbronx41@gmail.com
 
 <!---
