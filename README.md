@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lastbronx41
+- 👋 Hi, I’m @KwekuJecty
 - 👀 I’m interested in managing projects as a senior web developer
 - 🌱 I love teaching code and helping others learn how to solve problems as a coder
 - 💞️ I’m a team player and love collaborating on projects
