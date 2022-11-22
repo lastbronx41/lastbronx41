@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KwekuJecty
-- 👀 I’m interested in managing projects as a senior web developer
+- 👀 I’m always on the lookout for intertesting projects to collaborate on as a senior web developer
 - 🌱 I love teaching code and helping others learn how to solve problems as a coder
-- 💞️ I’m a team player and love collaborating on projects
-- 📫 How to reach me through lastbronx41@gmail.com
+- 💞️ I’m a team player and love anime
+- 📫 How to reach me through linkedin
 
 <!---
 lastbronx41/lastbronx41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
