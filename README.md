@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KwekuJecty
+- 👋 Hi, I’m @Kweku Jecty
 - 👀 I’m always on the lookout for intertesting projects to collaborate on as a senior web developer
 - 🌱 I love teaching code and helping others learn how to solve problems by thinking as a coder
 - 💞️ I’m a team player and love anime
