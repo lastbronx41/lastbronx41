@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kweku Jecty
+- 👋 Hi, I’m @Kweku Asare Obese-Jecty
 - 👀 I’m always on the lookout for intertesting projects to collaborate on as a senior web developer
 - 🌱 I enjoy teaching young devs how to code and solve problems by thinking as a coder
 - 💞️ I’m a team player and love anime
